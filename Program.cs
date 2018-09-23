@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace InANutshell_1
 {
@@ -8,6 +8,10 @@ namespace InANutshell_1
         {
             int x = 12 * 30;
             Console.WriteLine(x);
+            Console.ReadLine();
+
+
+           // aqui esta a mudança
             Console.ReadLine();
         }
     }
